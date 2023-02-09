@@ -1,4 +1,4 @@
-
+![logo](https://github.com/AbdullahFarooq0004/AbdullahFarooq0004/blob/main/Frame%20dash1.png)
 <h1 align="center">Hi 👋, I'm Abdullah Farooqi</h1>
 <h3 align="center">A passionate Machine Learning Developer from Karachi, Pakistan</h3>
 
