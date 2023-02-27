@@ -1,17 +1,13 @@
-[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcOweFvmp0L-R0UbvbmMUG7neQpSiDJK6szR7oyyu4BSXjK35XeWAGC6N0hEJsx2pMmf0Lp0ox8Ltsh8FyTMnLgFtJ45HCv0cUh1Xe-6IEB5pUynI5wK9Q4M2f3qR061VM2-QZ9NwJcuK6XHBXKPWTPSlsoe6g81avOZip44asYSjWG5HJBxhnQuUJkQ/s16000/Hello%20World.png)](https://rishavchanda.io)
-<h1 align="center">Hi 👋,I am Muhammad Haris</h1>
+[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1Fpreh7XEClQ1tu6p1wXonqNWQnM7ubzkyDNXRF81F1kloQu0_eC_5PrziaEAnrOX3ZwzbKaMfsyAk-fnISlymSr_qjZh7NK-vnxszpQdDE3Qzog_JT6FyT9dVLOXnB2rYl8xP8Q0GMWeTl268vbeYWOGxrdOdb_0yMFFZEjE1Tw-X18K4XC63VoK/s16000/Let's%20grow%20togathetr%20(1100%20%C3%97%20250%20px)%20(1000%20%C3%97%20250%20px)%20(1200%20%C3%97%20250%20px)%20(1000%20%C3%97%20250%20px).png)](https://rishavchanda.io)
+<h1 align="center">Hello People 👋</h1>
 <img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/MuhammadShakir-dev/MuhammadShakir-dev/main/borderseperator.gif">
 
-<h3 align="center">A Passionate SQA, Automation Engineer & Web / App Developer From Pakistan.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/bd/e9/7a/bde97a2bb426f625fc9810ab662b74b3.gif">
+<img align="right" alt="Coding" width="500" src="https://i.pinimg.com/originals/ef/16/e4/ef16e4e68b0d3cb81e6bb8a8c3258d7e.gif">
 
 # 🤝 Let's Connect
 
 <p align="left">
-<a href="https://twitter.com/MHaris_Dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mharis_dev" height="35" width="45" /></a><a href="https://www.linkedin.com/in/muhammad-haris-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-haris-dev" height="35" width="45" /></a>
-
-<a href="https://www.instagram.com/mharis_dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="h_4.haris_" height="35" width="45" /></a><a href="https://muhammadharis.hashnode.dev/" target="blank"><img align="center" src="hashnode.svg" alt="muhammadharis" height="35" width="45" /></a>
-</p>
+<a href="https://twitter.com/malikbdullah90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="40" width="50" /></a><a href="https://www.linkedin.com/in/abdullah-farooq-ml-engineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="40" width="50" /></a><a href="https://instagram.com/abdullahfarooq488?igshid=ZDdkNTZiNTM=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="40" width="50" /></a><a href="https://web.facebook.com/profile.php?id=100008300294222&_rdc=1&_rdr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="45" width="50" /></a></p>
 
 
 ## 👉 Programming Language
