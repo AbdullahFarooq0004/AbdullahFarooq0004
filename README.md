@@ -14,32 +14,30 @@
 ![Python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=#5DADE2)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+## 👉 Machine Learning
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/1200px-TensorFlow_logo.svg.png" alt="" height="100" width="250" /><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/2560px-NumPy_logo_2020.svg.png" alt="" height="100" width="250" />
 
-## 👉 Web-Development
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="" height="100" width="250" /><img align="center" src="https://keras.io/img/logo.png" alt="" height="100" width="250" />
+
+
+## 👉 Front End-Development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+## 👉 Back End-Development
+![Django](https://img.shields.io/badge/django-%23121011.svg?style=for-the-badge&logo=django&logoColor=green)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FCC624?style=for-the-badge&logo=firebase&logoColor=white)
-
-## 👉 SQA/Testing
-![Selenium](https://img.shields.io/badge/Selenium-%2366595C.svg?style=for-the-badge&logo=selenium&logoColor=green)
-![Cypress](https://img.shields.io/badge/Cypress-%23121011.svg?style=for-the-badge&logo=cypress&logoColor=white)
-
-## 👉 App-Development
-![Flutter](https://img.shields.io/badge/flutter-039BE5?style=for-the-badge&logo=flutter&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23121011.svg?style=for-the-badge&logo=django&logoColor=green)
 
 ## 👉 Designing Tools
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 
-
 ## 👉 IDEs
-![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/jupyter-23F24E1E.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 👉 OS
