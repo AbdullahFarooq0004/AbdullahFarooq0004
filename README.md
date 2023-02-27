@@ -46,5 +46,10 @@
 
 
 <h2>Github Streak.</h2>
-<a href="http://www.github.com/mharis-dev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mharis-dev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahfarooq0004&" alt="abdullahfarooq0004" /></p>
 
+<h2>My Contributions</h2>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahfarooq0004&show_icons=true&locale=en" alt="abdullahfarooq0004" /></p>
+
+<h2>Skill Set</h2>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahfarooq0004&show_icons=true&locale=en&layout=compact" alt="abdullahfarooq0004" /></p>
