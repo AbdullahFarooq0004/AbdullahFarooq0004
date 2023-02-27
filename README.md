@@ -15,9 +15,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## 👉 Machine Learning
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/1200px-TensorFlow_logo.svg.png" alt="" height="100" width="250" /><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/2560px-NumPy_logo_2020.svg.png" alt="" height="100" width="250" />
-
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="" height="100" width="250" /><img align="center" src="https://keras.io/img/logo.png" alt="" height="100" width="250" />
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" alt="" height="60" width="70" /><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" alt="" height="60" width="70" /><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" alt="" height="60" width="70" /><img align="center" src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png" alt="" height="60" width="70" />
 
 
 ## 👉 Front End-Development
